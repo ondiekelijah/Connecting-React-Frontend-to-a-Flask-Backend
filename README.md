@@ -67,18 +67,12 @@ OR
 ## Frontend - React
 ### Installation
 
-This section involves creating of a new react app,then moving the `node_modules` directory into the `frontend` directory
-
-> You can manoeuvre around this in any way you find suitable provided you have `node_modules` directory inside the `frontend` dir.
->
-> Sorry i never found a perfect way to handle this,you're free to modify this readme and submit a PR
+You just need to install the packages listed on package.json, on the frontend folder.
 
 ```
-cd Connecting-React-Frontend-to-a-Flask-Backend/backend
-npx create-react-app react-app
-cd react-app
+cd Connecting-React-Frontend-to-a-Flask-Backend/frontend
+npm install
 ```
-Copy the `node_modules` dir into the `frontend` dir
 
 `npm start`
 
