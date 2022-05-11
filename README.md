@@ -58,7 +58,7 @@ Then start the application by executing the run file
 
 **On windows**
 ```
-set FLASK_APP=main
+set FLASK_APP=routes
 flask run
 ```
 OR 
